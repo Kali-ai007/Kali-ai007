@@ -30,4 +30,4 @@ Currently focused on LLM security, DevSecOps automation, and AI-assisted threat 
 
 ---
 
-📍 Salt Lake City, UT &nbsp;|&nbsp; 📬 krayamajhi@hawk.illinoistech.edu &nbsp;|&nbsp; [LinkedIn](https://linkedin.com/in/kushalkishorsinghrayamajhi)
+📍 Salt Lake City, UT &nbsp;|&nbsp; 📬 krayamajhi034@gmail.com &nbsp;|&nbsp; [LinkedIn](https://linkedin.com/in/kushalkishorsinghrayamajhi)
