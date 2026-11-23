@@ -1,33 +1,45 @@
 # Kushal Rayamajhi
 
-**Cybersecurity Engineer · AI Security Tooling · M.S. Cybersecurity @ Illinois Tech**
+**Identity & Access Management | SailPoint | Okta | Security Automation**
 
-I build security tools that use AI to surface findings faster and reduce manual triage effort.
-Currently focused on LLM security, DevSecOps automation, and AI-assisted threat detection.
+My focus is identity security, access governance, and automation.
+This GitHub brings together my security projects, technical learning,
+and practical exploration of AI-assisted security tools.
 
----
+## Focus Areas
 
-### Projects
+- Identity lifecycle management and access governance
+- SailPoint IdentityIQ and Identity Security Cloud
+- Okta and access management
+- Security automation with Python
+- AI security and DevSecOps
 
-| Tool | What it does |
-|------|-------------|
-| [**SecureFlow**](https://github.com/Kali-ai007/SecureFlow) | DevSecOps scanner — Semgrep + Trivy + TruffleHog in a CI/CD gate with Flask dashboard |
-| [**Anirod**](https://github.com/Kali-ai007/Anirod) | Android APK analyzer — OWASP Mobile Top 10 static analysis + Mistral 7B for AI-generated findings |
-| [**PhishGuard**](https://github.com/Kali-ai007/phishguard) | 3-layer phishing URL detector — heuristics + threat intel feeds + WHOIS/DNS reputation |
-| [**Hydra**](https://github.com/Kali-ai007/hydra) | Plugin-based credential audit framework — SSH, HTTP Basic, FTP with JSON pipeline I/O |
+## Security Projects
 
----
+| Project | Focus |
+|---------|-------|
+| [SecureFlow](https://github.com/Kali-ai007/SecureFlow) | Integrates security scanning into CI/CD workflows using Semgrep, Trivy, and TruffleHog |
+| [Anirod](https://github.com/Kali-ai007/Anirod) | Explores Android APK security analysis with a web dashboard and AI-assisted explanations |
+| [PhishGuard](https://github.com/Kali-ai007/phishguard) | Combines URL heuristics, threat intelligence, and domain checks for phishing analysis |
+| [Hydra](https://github.com/Kali-ai007/hydra) | Explores credential auditing through a modular framework for authorized testing |
 
-### Skills
-`Python` `Docker` `GitHub Actions` `Semgrep` `Ollama / Mistral 7B` `LangChain`
-`OWASP Top 10` `SAST / SCA / DAST` `Threat Modeling` `Burp Suite` `Metasploit`
+These are personal projects and learning work. Each repository provides
+its own implementation details and limitations.
 
-### Certs & Labs
-- HackTheBox Apprentice · Level 19 · 8 machines rooted
-- TryHackMe Top 20% · 33 rooms · 6 badges
+## Technical Toolkit
+
+`Python` `Docker` `GitHub Actions` `Semgrep`
+`Ollama` `LangChain` `Burp Suite` `Metasploit`
+
+## Education & Learning
+
+- M.S. Cybersecurity — Illinois Institute of Technology
 - EC-Council Linux Forensics
-- CompTIA Security+ *(in progress)*
+- Hands-on security labs through Hack The Box and TryHackMe
+- CompTIA Security+ preparation
 
----
+## Connect
 
-📍 Salt Lake City, UT &nbsp;|&nbsp; 📬 krayamajhi034@gmail.com &nbsp;|&nbsp; [LinkedIn](https://linkedin.com/in/kushalkishorsinghrayamajhi)
+📍 Salt Lake City, Utah  
+📬 krayamajhi034@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/kushalkishorsinghrayamajhi)
